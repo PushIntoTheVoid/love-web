@@ -211,7 +211,7 @@ function App() {
               <div className="absolute -top-3 left-[35%] w-[30%] h-5 bg-amber-100/60 dark:bg-purple-900/30 border-l border-r border-dashed border-black/10 dark:border-white/10 shadow-2xs rotate-2"></div>
 
               <img
-                src="/couple_hero.png"
+                src="./couple_hero.png"
                 alt="Cozy sweet couple dreaming together"
                 className="w-full aspect-[4/3] object-cover border border-slate-200/50 dark:border-slate-800 shadow-inner"
               />
